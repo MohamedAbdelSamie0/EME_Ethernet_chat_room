@@ -48,10 +48,3 @@ if __name__ == '__main__':
     server = ChatServer()
     # start server
     server.listen(host= HOST, port= PORT)
-
-    # keep server running untill user closes
-    print("----------------------------------")
-    input("Press any key to close server....")
-
-    # stop server
-    ChatServer.stop()
