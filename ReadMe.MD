@@ -1,4 +1,8 @@
-#   Author
-## Mohamed Abdelsamie
+#   <b> Ethernet server-client chat room </b>
 
-## Ethernet server-client chat room developed during EME training at EUI
+##  *Developed during EME training at EUI*
+
+#   <b> Team members </b>
+
+*   <b> Mohamed Abdelsamie Mohamed  482
+*   Ahmed Essam ElDin ElShafie 765  </b>
